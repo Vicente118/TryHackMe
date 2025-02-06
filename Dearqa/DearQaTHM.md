@@ -96,9 +96,8 @@ main:
 STACK :
 
 High addresses on top to low addresses on bottom
-Pushing and element into the stack is adding to the stack, to the closest AND lowest addresses he can.
+Pushing and element into the stack is adding to the stack, to the closest AND lowest address he can.
 
-Here is whe
 ```ASM
 lea rax, [rbp-0x20 {var_28}]
 ```
