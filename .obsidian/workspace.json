@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BountyHacker/BountyHacker.md",
+                "file": "Smol/SmolTHM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BountyHacker"
+              "title": "SmolTHM"
             }
           }
         ]
@@ -168,8 +168,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a6b92cd8e70f5ae2",
+  "active": "8e9c9c4b20cbb3a4",
   "lastOpenFiles": [
+    "BountyHacker/BountyHacker.md",
     "BountyHacker/locks.txt",
     "BountyHacker/task.txt",
     "BountyHacker/crew.jpg",
