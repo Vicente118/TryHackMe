@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Smol/SmolTHM.md",
+                "file": "BinaryHeaven/BinaryHeaven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SmolTHM"
+              "title": "BinaryHeaven"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df0a42713070576e",
@@ -170,14 +171,26 @@
   },
   "active": "8e9c9c4b20cbb3a4",
   "lastOpenFiles": [
-    "BountyHacker/BountyHacker.md",
-    "BountyHacker/locks.txt",
-    "BountyHacker/task.txt",
-    "BountyHacker/crew.jpg",
+    "BinaryHeaven/echo.c",
+    "BinaryHeaven/exploit.py",
     "Dearqa/DearQaTHM.md",
-    "README.md",
-    "Dearqa/exploit.py",
-    "Dearqa/DearQA.DearQA",
-    "Smol/SmolTHM.md"
+    "Smol/SmolTHM.md",
+    "BinaryHeaven/BinaryHeaven.md",
+    "GamingServer/GamingServer.md",
+    "BinaryHeaven/pwn_me",
+    "BinaryHeaven/Being Worthy/BinaryHeaven.md",
+    "BinaryHeaven/username.c",
+    "BinaryHeaven/username",
+    "BinaryHeaven/angel_B",
+    "BinaryHeaven/angel_A",
+    "BinaryHeaven/Being Worthy/angel_B",
+    "BinaryHeaven/Being Worthy/angel_A",
+    "BinaryHeaven/Being Worthy/username.c",
+    "BinaryHeaven/Being Worthy/username",
+    "GamingServer/lxd-alpine-builder/README.md",
+    "GamingServer/meme.jpg",
+    "BountyHacker/BountyHacker.md",
+    "BountyHacker/crew.jpg",
+    "README.md"
   ]
 }
